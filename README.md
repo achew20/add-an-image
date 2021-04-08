@@ -1,14 +1,14 @@
 # Add an Image
 
-You can write something like just text here
+I am writing some things here. 
 
-This is a bullet list:
+Things I like:
 
-- I 
-- can
-- do
-- bullet
-- list
+- dogs 
+- food
+- my friends
+- my family 
+- music
 * asterisks work too
 
 ## New section
